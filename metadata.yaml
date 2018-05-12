@@ -1,0 +1,27 @@
+_repo: Merry-Words-for-Merry-Children_25621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoatson, A.
+    gutenberg_agent_id: '31469'
+    url: http://www.gutenberg.org/2009/agents/31469
+description: ''
+gutenberg_issued: '2008-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, English'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Cruelty -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Bicycle racing -- Juvenile poetry'
+title: Merry Words for Merry Children
+url: http://www.gutenberg.org/ebooks/25621
